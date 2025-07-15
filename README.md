@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Giorgio Delle Grottaglie
+
+👋 Welcome to my GitHub!  
+I am an engineering leader with extensive experience across both frontend and platform engineering. Most recently, I served as a Senior Engineering Manager, driving impactful projects and nurturing high-performing teams.
+
+## 💼 About Me
+
+- **Role:** Engineering Leader
+- **Expertise:**  
+  - Frontend development (specializing in JavaScript, TypeScript and modern frameworks)
+  - Platform engineering and scalable architectures
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/giorgiodellegrottaglie/)
+- [Personal Website](https://giorgiodg.it/)
+
+## 📌 Skills
+
+- JavaScript, TypeScript, React, Node.js
+- Platform design & system architecture
+- Engineering leadership & team management in complex and distributed environments
+- Agile methodologies & process improvement
+
+## 🚀 What Drives Me
+
+- Creating robust technical solutions to complex problems
+- Mentoring and developing engineering talent
 
 <!--
-**giorgiodg/giorgiodg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+If you have specific projects or achievements to highlight, they can be added below. Just let me know!
 -->
+
+---
+
+Thank you for visiting my profile!
