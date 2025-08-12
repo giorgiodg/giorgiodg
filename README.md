@@ -1,14 +1,7 @@
 # Hi, I'm Giorgio Delle Grottaglie
 
 👋 Welcome to my GitHub!  
-I am an engineering leader with extensive experience across both frontend and platform engineering. Most recently, I served as a Senior Engineering Manager, driving impactful projects and nurturing high-performing teams.
-
-## 💼 About Me
-
-- **Role:** Engineering Leader
-- **Expertise:**  
-  - Frontend development (specializing in JavaScript, TypeScript and modern frameworks)
-  - Platform engineering and scalable architectures
+I am an engineering leader with extensive experience across both frontend and platform engineering. Most recently, I worked as a Senior Engineering Manager within Developer Experience, driving impactful projects and nurturing high-performing distributed teams.
 
 ## 🌐 Connect with Me
 
@@ -17,7 +10,7 @@ I am an engineering leader with extensive experience across both frontend and pl
 
 ## 📌 Skills
 
-- JavaScript, TypeScript, React, Node.js
+- JavaScript, TypeScript, Node.js and modern frameworks like React and Next.js
 - Platform design & system architecture
 - Engineering leadership & team management in complex and distributed environments
 - Agile methodologies & process improvement
@@ -32,5 +25,3 @@ If you have specific projects or achievements to highlight, they can be added be
 -->
 
 ---
-
-Thank you for visiting my profile!
