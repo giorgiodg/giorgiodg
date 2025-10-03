@@ -15,4 +15,3 @@ I am an engineering leader with extensive experience across both frontend and pl
 - Engineering leadership & team management in complex and distributed environments
 - Agile methodologies & process improvement
 - 
----
