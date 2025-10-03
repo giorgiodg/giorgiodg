@@ -10,18 +10,9 @@ I am an engineering leader with extensive experience across both frontend and pl
 
 ## 📌 Skills
 
-- JavaScript, TypeScript, Node.js and modern frameworks like React and Next.js
+- JavaScript, TypeScript, Node.js and modern frameworks like Astro, React and Next.js
 - Platform design & system architecture
 - Engineering leadership & team management in complex and distributed environments
 - Agile methodologies & process improvement
-
-## 🚀 What Drives Me
-
-- Creating robust technical solutions to complex problems
-- Mentoring and developing engineering talent
-
-<!--
-If you have specific projects or achievements to highlight, they can be added below. Just let me know!
--->
-
+- 
 ---
