@@ -1,7 +1,8 @@
 # Hi, I'm Giorgio Delle Grottaglie
 
 👋 Welcome to my GitHub!  
-I am an engineering leader with extensive experience across both frontend and platform engineering. Most recently, I worked as a Senior Engineering Manager within Developer Experience, driving impactful projects and nurturing high-performing distributed teams.
+I am an engineering leader with over a decade of experience driving software delivery and platform excellence across traveltech and insurtech.
+Most recently, I worked as a Senior Engineering Manager within Developer Experience, driving impactful projects and nurturing high-performing distributed teams.
 
 ## 🌐 Connect with Me
 
@@ -10,8 +11,11 @@ I am an engineering leader with extensive experience across both frontend and pl
 
 ## 📌 Skills
 
-- JavaScript, TypeScript, Node.js and modern frameworks like Astro, React and Next.js
-- Platform design & system architecture
-- Engineering leadership & team management in complex and distributed environments
-- Agile methodologies & process improvement
-- 
+**Leadership**  
+Multi-Cultural Team Leadership, Stakeholder Management, Business Agility, Coaching & Mentorship.  
+
+**Programming**  
+JavaScript, TypeScript, Python, Bash, Go, MySQL. Able to grasp new programming languages, frameworks, systems and APIs rapidly.  
+
+**Tools, services & frameworks**  
+AWS (ECS, EC2, IAM, S3, CloudFront, Lambda and much more), CI/CD (Spinnaker, Jenkins, GitHub Actions), Kubernetes, Backstage, Terraform, Git, Linux. NodeJS, ReactJS, Next.js, Astro.
