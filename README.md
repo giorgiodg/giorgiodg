@@ -4,11 +4,6 @@
 I am an engineering leader with over a decade of experience driving software delivery and platform excellence across traveltech and insurtech.
 Most recently, I worked as a Senior Engineering Manager within Developer Experience, driving impactful projects and nurturing high-performing distributed teams.
 
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/giorgiodellegrottaglie/)
-- [Personal Website](https://giorgiodg.it/)
-
 ## 📌 Skills
 
 **Leadership**  
