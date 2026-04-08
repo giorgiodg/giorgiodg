@@ -1,8 +1,8 @@
 # Hi, I'm Giorgio Delle Grottaglie
 
 👋 Welcome to my GitHub!  
-I am an engineering leader with over a decade of experience driving software delivery and platform excellence across traveltech and insurtech.
-Most recently, I worked as a Senior Engineering Manager within Developer Experience, driving impactful projects and nurturing high-performing distributed teams.
+I am an engineering leader with over a decade of experience driving software delivery and platform excellence across traveltech and insurtech, managing both Frontend and Platform teams in distributed, multicultural environments.
+I am currently working as Lead Engineer at eDreams ODIGEO.
 
 ## 📌 Skills
 
